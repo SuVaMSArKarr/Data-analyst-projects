@@ -22,7 +22,7 @@ Data Analyst with expertise in Python, SQL, statistical analysis, and business i
 [View Project Details →](./project-1-ecommerce/)
 
 ### 2. [Customer Churn Prediction & Retention Analysis](./project-2-churn-prediction/)
-![Churn Prediction Dashboard](./screenshots/churn-dashboard.png)
+![Churn Prediction Dashboard](./project-2-churn-prediction/churn-dashboard.png)
 
 **Tech Stack:** Python (Scikit-learn, Pandas), Machine Learning, SQL, Tableau
 

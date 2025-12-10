@@ -9,7 +9,7 @@ Data Analyst with expertise in Python, SQL, statistical analysis, and business i
 ## 🚀 Featured Projects
 
 ### 1. [E-Commerce Sales Analytics Dashboard](./project-1-ecommerce/)
-![E-Commerce Dashboard](./screenshots/ecommerce-dashboard.png)
+![E-Commerce Dashboard](./project-1-ecommerce/ecommerce-dashboard.png)
 
 **Tech Stack:** Python (Pandas, NumPy, Matplotlib), SQL (MySQL), Power BI/Tableau
 
